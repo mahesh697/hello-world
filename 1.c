@@ -3,7 +3,8 @@
 int main()
 {
  int a =0;
- printf("%d\n",a);
+ int b =0;
+ printf("%d\n",a,b);
  printf("Hello world");
  return 0;
 }
